@@ -1,4 +1,4 @@
-🧠 Web Scraping Projects: Hacker News & IMDb Top Movies
+## Web Scraping Projects: Hacker News & IMDb Top Movies
 This repository contains two web scraping projects designed to extract structured, meaningful datasets from popular websites:
 
 1. Hacker News Scraper
